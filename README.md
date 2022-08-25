@@ -4,9 +4,13 @@ This a speed quiz game for JavaScript basics. Once user clicks the start game bu
 
 ## Installation
 
-Anyone can clone the repo from the website listed below. Once repo is cloned, user can have full access to the site and also the code behind it.
+Anyone can clone the repo from the website listed below using either SSH key or HTTP. Once repo is cloned, user can have full access to the site and also the code behind it.
 
 Github: https://github.com/jonathan-lee8/JavaScript-Quiz-Game
+
+## Usage
+
+Test some of your basic JavaScript knowledge with this short 12 question quiz designed to help you test and teach you new things about JavaScript.
 
 ## Credit
 
