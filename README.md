@@ -20,4 +20,6 @@ N/A
 
 MIT License
 
-![](javascript-game.gif)
+
+
+![alt-text-here](javascript-game.gif)
