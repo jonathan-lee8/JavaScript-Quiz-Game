@@ -22,4 +22,4 @@ MIT License
 
 
 
-![alt-text-here](javascript-game.gif)
+![alt-text-here](javaScript-game.gif)
